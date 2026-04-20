@@ -3,7 +3,7 @@
  * Plugin Name: JSON to Elementor Converter
  * Description: Instantly generate Elementor layouts from AI-generated JSON.
  * Version: 1.0.0
- * Author: Antigravity
+ * Author: ridhwanahsan
  * Text Domain: json-to-elementor-converter
  * Requires at least: 5.8
  * Requires PHP: 7.4
