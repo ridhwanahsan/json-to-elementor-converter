@@ -1,5 +1,5 @@
 === JSON to Elementor Converter ===
-Contributors: Antigravity
+Contributors: ridhwanahsan
 Tags: elementor, layout, ai, generator, json
 Requires at least: 5.8
 Tested up to: 6.9
